@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 """Python client for Pepkio reagent-qr-label-maker tool."""
 
 from .client import PepkioClient

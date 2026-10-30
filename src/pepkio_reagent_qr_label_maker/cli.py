@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 """Click CLI for Pepkio reagent-qr-label-maker tool."""
 
 from __future__ import annotations

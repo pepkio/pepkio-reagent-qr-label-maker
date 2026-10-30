@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 """Configuration and environment resolution for Pepkio reagent-qr-label-maker client."""
 
 from __future__ import annotations

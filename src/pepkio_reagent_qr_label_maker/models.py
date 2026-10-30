@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 """Typed API request and response models derived from tool manifest."""
 
 from __future__ import annotations
